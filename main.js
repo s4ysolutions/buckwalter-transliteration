@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 var mappings = require("./mappings/")
 
 var myapp = module.exports = {
